@@ -7,6 +7,6 @@ Pour trouver le chemin vers la solution, on utilise la commande *find* :   `find
       
 Pour afficher le contenu du fichier, on utilise le commande *cat* :   
 
-               - `cat 01_choice_tree/blue/hats/grey/solution/patience/SOLUTION.txt`
+                `cat 01_choice_tree/blue/hats/grey/solution/patience/SOLUTION.txt`
 
 solution : p******e
