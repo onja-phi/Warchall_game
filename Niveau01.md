@@ -1,5 +1,5 @@
 ## Niveau01
-Pour accéder à chaque level, on utilise le commande *cd* :    `cd /home/level`
+Pour accéder à ce level, on utilise le commande *cd* :    `cd /home/level`
 
  et pour afficher le contenu du repertoire:    `ls -al`
 
